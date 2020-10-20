@@ -16,8 +16,3 @@
 
 
 **Daha fazla bilgi için:** [Buraya Tıkla](https://discord.gg/Jt3ASq).
-
-
-# Discord v11 Göre Editlenmiştir.
-
-`process.env.CLIENT_TOKEN` Çalıştırmak için => .env olan dosya içeriğine `CLIENT_TOKEN=TokenBuraya` gelecek şekilde koyunuz.
