@@ -1,0 +1,31 @@
+{
+  "author": "Pudochu `R#0001",
+  "license": "Apache-2.0",
+  "keywords": [
+    "Cortex",
+    "discord",
+    "bot",
+    "mod",
+    "Eğlence Botu"
+    "AI Sistemli Bot",
+    "Kayıt Sistemi"
+  ],
+  "name": "Cortex",
+  "version": "0.1.23",
+  "description": "Cortex Bot",
+  "private": true,
+  "main": "Cortex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Cortex.js"
+  },
+    "engines": {
+    "node": "12.x",
+    "npm": "6x"
+  },
+    "dependencies": {
+    "discord.js": "^11.5.2",
+    "djs-commands": "^1.2.2",
+    "dotenv": "^8.2.0"
+  }
+  }
