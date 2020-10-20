@@ -20,12 +20,11 @@
     "start": "node Cortex.js"
   },
     "engines": {
-    "node": "12.x",
+    "node": "10.x",
     "npm": "6x"
   },
     "dependencies": {
     "discord.js": "^11.5.2",
-    "djs-commands": "^1.2.2",
     "dotenv": "^8.2.0"
   }
   }
