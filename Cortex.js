@@ -6,7 +6,6 @@ const client = new Discord.Client();
 const chalk = require('chalk');
 const moment = require('moment');
 const db = require('quick.db');
-require('./util/eventLoader')(client);
 
 client.queue = new Map()
 
