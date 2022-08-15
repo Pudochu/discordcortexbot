@@ -15,4 +15,4 @@
 `-` **Açık kaynaklı kod paylaşıma açık değildir. Klonu oluşturan kişi & şahıslara gerekli İşlemler uygulanmaktadır.**
 
 
-**Daha fazla bilgi için:** [Buraya Tıkla](https://discord.gg/Jt3ASq).
+**Daha fazla bilgi için:** [Buraya Tıkla](https://cortex.fun/privacy).
